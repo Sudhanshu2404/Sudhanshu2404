@@ -1,70 +1,109 @@
-<!-- Header -->
+<!-- PROFILE README - Fully Animated / Stylish -->
+
+<!-- Header: profile picture (local file path included) -->
+<p align="center">
+  <img src="/mnt/data/580d4e9b-75fd-444c-b4ff-75d641872d37.png" alt="profile" width="140" style="border-radius:50%;">
+</p>
+
 <h1 align="center">Hi 👋, I'm Sudhanshu Khanna</h1>
 <h3 align="center">Data Analyst • Python Developer • SQL Enthusiast</h3>
 
+<!-- Animated typing intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=4CAF50&width=550&height=60&lines=Turning+Data+Into+Decisions📊;Building+Clean+and+Impactful+Projects💡;Always+learning+Something+New🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=4CAF50&width=780&height=60&lines=Turning+Data+into+Actionable+Insights📊;Building+Scalable+Python+Automation🛠️;Learning+Full+Stack+Data+Engineering🚀" alt="typing" />
+</p>
+
+---
+
+<!-- Animated gradient banner (SVG embed via shields as decorative bar) -->
+<p align="center">
+  <img src="https://img.shields.io/badge/--%20Data%20Analyst%20%7C%20Python%20Dev%20%7C%20SQL-blue?style=for-the-badge&logo=databricks" alt="banner" />
 </p>
 
 ---
 
 ## 🚀 About Me
-- 🔍 Passionate about **Data Analytics**, **Python Development**, and **Business Insights**
-- 📊 Skilled in **Power BI, SQL, Tableau, and Python**
-- 🔧 Currently advancing in **Machine Learning + DSA**
-- 📫 Reach me at **sudhanshukhanna2404@gmail.com**
-- 🌐 Check my LinkedIn: [Sudhanshu Khanna](https://linkedin.com/in/sudhanshu-khanna-6a3705203)
+- 🔍 Passionate about **Data Analytics**, **Python**, and building dashboards that drive decisions.  
+- 🧰 I focus on ETL, data modelling, visualization (Power BI / Tableau), and automation with Python.  
+- 📫 Reach me: **sudhanshukhanna2404@gmail.com** | LinkedIn: [Sudhanshu Khanna](https://linkedin.com/in/sudhanshu-khanna-6a3705203)
 
 ---
 
-## 🛠️ Tech Stack & Tools
-
-### 📌 Programming & Query Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DSA-FF6F00?style=for-the-badge&logo=codeforces&logoColor=white"/>
+## 🛠️ Tech Stack (Animated Badges)
+<p align="center">
+  <!-- Programming & Query Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
 </p>
-
-### 📌 Visualization & BI Tools
-<p>
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-</p>
-
-### 📌 Development Tools & Technologies
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCODE-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</p>
-
----
-
-## 📈 GitHub Stats & Activity
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sudhanshu2404&show_icons=true&theme=react&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sudhanshu2404&theme=react&hide_border=true" />
+  <!-- BI & Tools -->
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+  <img src="https://img.shields.io/badge/Power_Query-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Power Query" />
+</p>
+
+<p align="center">
+  <!-- Databases & Tools -->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Postgres-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
+  <img src="https://img.shields.io/badge/MS--SQL--Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MS SQL Server" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
 ---
 
-## 📌 Featured Projects
-- 🔹 **Data Analysis Dashboards** – Power BI Projects  
-- 🔹 **Python Automation Tools** – Web scraping, APIs, ETL  
-- 🔹 **SQL Case Studies** – Optimization, Joins, Window Functions  
-- 🔹 **ML Models (Learning)** – Regression & Classification  
+## ✨ Animated GitHub Stats & Trophies
+<p align="center">
+  <!-- Live GitHub stats (SVG) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Sudhanshu2404&show_icons=true&theme=radical&hide_border=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sudhanshu2404&theme=radical&hide_border=true" width="49%" />
+</p>
 
----
-
-## 🌐 Connect With Me
-<p align="left">
-  <a href="https://linkedin.com/in/sudhanshu-khanna-6a3705203"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:sudhanshukhanna2404@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<p align="center">
+  <!-- GitHub trophies (animated SVG style) -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Sudhanshu2404&theme=radical&row=1&column=6" alt="Trophies" />
 </p>
 
 ---
 
-### ⭐ If you like this profile, don't forget to give a ⭐ to my repositories!
+## 🔭 Featured Projects (Animated GIF placeholders)
+> *Click repo links from my profile to view code & live demos.*
+
+- **Data Dashboards (Power BI)** — Interactive sales & retention dashboards, KPI automation.  
+- **Python ETL & Automation** — ETL pipelines, API integrations, web scraping scripts.  
+- **SQL Case Studies** — Complex joins, window functions, performance tuning.  
+- **Machine Learning (Learning)** — Regression & classification prototypes.
+
+<p align="center">
+  <!-- Animated project GIF placeholder (replace with your own GIF links for live animation) -->
+  <img src="https://media.giphy.com/media/3o7TKsQ3z3F8D7xGJ2/giphy.gif" alt="projects-animation" width="700" />
+</p>
+
+---
+
+## 📚 Learning & Goals
+- Deepen knowledge in **Advanced SQL**, **DAX (Power BI)**, and **Production ML pipelines**.  
+- Build portfolio-ready full-stack data projects (ETL → Warehouse → BI dashboards).
+
+---
+
+## 🌐 Get in Touch
+<p align="center">
+  <a href="https://linkedin.com/in/sudhanshu-khanna-6a3705203"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:sudhanshukhanna2404@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/Sudhanshu2404"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
+---
+
+## ⭐ Tip
+If you'd like me to replace the animated GIF placeholders with screenshots or demo GIFs from your actual projects (I can generate GIFs from URLs or local images), tell me which repos/projects you want featured and I will provide direct image links and updated README markup.
+
+---
+
