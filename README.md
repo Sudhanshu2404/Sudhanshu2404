@@ -2,7 +2,7 @@
 
 <!-- Header: profile picture (local file path included) -->
 <p align="center">
-  <img src="/mnt/data/580d4e9b-75fd-444c-b4ff-75d641872d37.png" alt="profile" width="140" style="border-radius:50%;">
+  <div align="center"><img src="https://drive.google.com/file/d/1x6Mo4cOpQ9VTchMiaYOtymSbP1JyChim/view?usp=drive_link" alt="profile" width="140" style="border-radius:50%;"></div>
 </p>
 
 <h1 align="center">Hi 👋, I'm Sudhanshu Khanna</h1>
@@ -33,7 +33,6 @@
 <p align="center">
   <!-- Programming & Query Languages -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
@@ -65,11 +64,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sudhanshu2404&theme=radical&hide_border=true" width="49%" />
 </p>
 
-<p align="center">
-  <!-- GitHub trophies (animated SVG style) -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Sudhanshu2404&theme=radical&row=1&column=6" alt="Trophies" />
-</p>
-
 ---
 
 ## 🔭 Featured Projects (Animated GIF placeholders)
@@ -79,11 +73,6 @@
 - **Python ETL & Automation** — ETL pipelines, API integrations, web scraping scripts.  
 - **SQL Case Studies** — Complex joins, window functions, performance tuning.  
 - **Machine Learning (Learning)** — Regression & classification prototypes.
-
-<p align="center">
-  <!-- Animated project GIF placeholder (replace with your own GIF links for live animation) -->
-  <img src="https://media.giphy.com/media/3o7TKsQ3z3F8D7xGJ2/giphy.gif" alt="projects-animation" width="700" />
-</p>
 
 ---
 
@@ -99,11 +88,6 @@
   <a href="mailto:sudhanshukhanna2404@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/Sudhanshu2404"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
-
----
-
-## ⭐ Tip
-If you'd like me to replace the animated GIF placeholders with screenshots or demo GIFs from your actual projects (I can generate GIFs from URLs or local images), tell me which repos/projects you want featured and I will provide direct image links and updated README markup.
 
 ---
 
