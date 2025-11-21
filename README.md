@@ -4,11 +4,13 @@
 <h3 align="center">Data Analyst • Python Developer • SQL Enthusiast</h3>
 
 ---
-
 <!-- Animated gradient banner (SVG embed via shields as decorative bar) -->
-<!-- Animated typing intro -->
+<!-- Animated typing intro (centered) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=4CAF50&width=780&height=60&lines=Turning+Data+into+Actionable+Insights📊;Building+Scalable+Python+Automation🛠️;Learning+Full+Stack+Data+Engineering🚀" alt="typing" align="center" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=4CAF50&width=780&height=60&lines=Turning+Data+into+Actionable+Insights📊;Building+Scalable+Python+Automation🛠️;Learning+Full+Stack+Data+Engineering🚀" 
+    alt="Sudhanshu typing animation"
+  />
 </p>
 
 ---
