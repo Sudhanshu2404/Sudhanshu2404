@@ -3,18 +3,12 @@
 <h1 align="center">Hi 👋, I'm Sudhanshu Khanna</h1>
 <h3 align="center">Data Analyst • Python Developer • SQL Enthusiast</h3>
 
-<!-- Animated typing intro -->
-<p align="center">
-  <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=4CAF50&width=780&height=60&lines=Turning+Data+into+Actionable+Insights📊;Building+Scalable+Python+Automation🛠️;Learning+Full+Stack+Data+Engineering🚀" alt="typing" />
-  </div>
-</p>
-
 ---
 
 <!-- Animated gradient banner (SVG embed via shields as decorative bar) -->
+<!-- Animated typing intro -->
 <p align="center">
-  <img src="https://img.shields.io/badge/--%20Data%20Analyst%20%7C%20Python%20Dev%20%7C%20SQL-blue?style=for-the-badge&logo=databricks" alt="banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=4CAF50&width=780&height=60&lines=Turning+Data+into+Actionable+Insights📊;Building+Scalable+Python+Automation🛠️;Learning+Full+Stack+Data+Engineering🚀" alt="typing" />
 </p>
 
 ---
