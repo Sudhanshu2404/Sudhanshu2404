@@ -1,26 +1,70 @@
-✨ Hi 👋, I'm Sudhanshu Khanna
-A passionate Data Analyst & Python Developer from India
-🚀 About Me
+<!-- Header -->
+<h1 align="center">Hi 👋, I'm Sudhanshu Khanna</h1>
+<h3 align="center">Data Analyst • Python Developer • SQL Enthusiast</h3>
 
-🔍 I’m currently working on Data Analytics & Dashboard Projects
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=4CAF50&width=550&height=60&lines=Turning+Data+Into+Decisions📊;Building+Clean+and+Impactful+Projects💡;Always+learning+Something+New🚀" />
+</p>
 
-📘 I’m currently learning SQL, Power BI, Cloud & Advanced Python
+---
 
-📂 All of my projects are available at
-👉 https://github.com/Sudhanshu2404?tab=repositories
+## 🚀 About Me
+- 🔍 Passionate about **Data Analytics**, **Python Development**, and **Business Insights**
+- 📊 Skilled in **Power BI, SQL, Tableau, and Python**
+- 🔧 Currently advancing in **Machine Learning + DSA**
+- 📫 Reach me at **sudhanshukhanna2404@gmail.com**
+- 🌐 Check my LinkedIn: [Sudhanshu Khanna](https://linkedin.com/in/sudhanshu-khanna-6a3705203)
 
-📩 Reach me at: sudhanshukhanna2404@gmail.com
+---
 
-📄 Know more about my experience: View Resume
+## 🛠️ Tech Stack & Tools
 
-⚡ Fun fact: I love solving DSA problems & debugging is therapeutic for me
+### 📌 Programming & Query Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DSA-FF6F00?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</p>
 
-🌐 Connect with me
-<p align="left"> <a href="https://www.linkedin.com/in/sudhanshu-khanna-6a3705203"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a> <a href="https://www.instagram.com/sudhanshu_khanna?igsh=bGw2NnY1cDlhZDZh&utm_source=qr"><img src="https://skillicons.dev/icons?i=instagram" width="45"/></a> <a href="https://x.com/sudhanshuk29558?s=21"><img src="https://skillicons.dev/icons?i=twitter" width="45"/></a> <a href="https://github.com/Sudhanshu2404"><img src="https://skillicons.dev/icons?i=github" width="45"/></a> </p>
-🛠️ Tech Stack
-<p align="left"> <img src="https://skillicons.dev/icons?i=python" width="45"/> <img src="https://skillicons.dev/icons?i=postgres" width="45"/> <img src="https://skillicons.dev/icons?i=mysql" width="45"/> <img src="https://skillicons.dev/icons?i=sqlite" width="45"/> <img src="https://skillicons.dev/icons?i=js" width="45"/> <img src="https://skillicons.dev/icons?i=html" width="45"/> <img src="https://skillicons.dev/icons?i=css" width="45"/> <img src="https://skillicons.dev/icons?i=git" width="45"/> <img src="https://skillicons.dev/icons?i=github" width="45"/> <img src="https://skillicons.dev/icons?i=django" width="45"/> <img src="https://skillicons.dev/icons?i=react" width="45"/><img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="45" />
-<img src="https://skillicons.dev/icons?i=linux" width="45"/> </p>
-📊 GitHub Stats
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Sudhanshu2404&show_icons=true&theme=tokyonight" height="180"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sudhanshu2404&theme=tokyonight" height="180"/> </p>
-📈 Top Languages
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudhanshu2404&layout=compact&theme=tokyonight" height="140"/> </p>
+### 📌 Visualization & BI Tools
+<p>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+</p>
+
+### 📌 Development Tools & Technologies
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCODE-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
+
+---
+
+## 📈 GitHub Stats & Activity
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sudhanshu2404&show_icons=true&theme=react&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sudhanshu2404&theme=react&hide_border=true" />
+</p>
+
+---
+
+## 📌 Featured Projects
+- 🔹 **Data Analysis Dashboards** – Power BI Projects  
+- 🔹 **Python Automation Tools** – Web scraping, APIs, ETL  
+- 🔹 **SQL Case Studies** – Optimization, Joins, Window Functions  
+- 🔹 **ML Models (Learning)** – Regression & Classification  
+
+---
+
+## 🌐 Connect With Me
+<p align="left">
+  <a href="https://linkedin.com/in/sudhanshu-khanna-6a3705203"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:sudhanshukhanna2404@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+### ⭐ If you like this profile, don't forget to give a ⭐ to my repositories!
