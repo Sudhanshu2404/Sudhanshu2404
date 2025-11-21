@@ -6,12 +6,12 @@
 ---
 <!-- Animated gradient banner (SVG embed via shields as decorative bar) -->
 <!-- Animated typing intro (centered) -->
-<p align="center">
+<div align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=4CAF50&width=780&height=60&lines=Turning+Data+into+Actionable+Insights📊;Building+Scalable+Python+Automation🛠️;Learning+Full+Stack+Data+Engineering🚀" 
+    src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=4CAF50&center=true&vCenter=true&width=700&height=60&lines=Turning+Data+into+Actionable+Insights📊;Building+Scalable+Python+Automation🛠️;Learning+Full+Stack+Data+Engineering🚀" 
     alt="Sudhanshu typing animation"
   />
-</p>
+</div>
 
 ---
 
@@ -22,7 +22,7 @@
 
 ---
 
-## 🛠️ Tech Stack (Animated Badges)
+## 🛠️ Tech Stack
 <p align="center">
   <!-- Programming & Query Languages -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -50,7 +50,7 @@
 
 ---
 
-## ✨ Animated GitHub Stats & Trophies
+## ✨ Animated GitHub Stats
 <p align="center">
   <!-- Live GitHub stats (SVG) -->
   <img src="https://github-readme-stats.vercel.app/api?username=Sudhanshu2404&show_icons=true&theme=radical&hide_border=true" width="49%" />
@@ -59,7 +59,7 @@
 
 ---
 
-## 🔭 Featured Projects (Animated GIF placeholders)
+## 🔭 Featured Projects
 > *Click repo links from my profile to view code & live demos.*
 
 - **Data Dashboards (Power BI)** — Interactive sales & retention dashboards, KPI automation.  
