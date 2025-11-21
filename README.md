@@ -1,16 +1,13 @@
 <!-- PROFILE README - Fully Animated / Stylish -->
 
-<!-- Header: profile picture (local file path included) -->
-<p align="center">
-  <div align="center"><img src="https://drive.google.com/file/d/1x6Mo4cOpQ9VTchMiaYOtymSbP1JyChim/view?usp=drive_link" alt="profile" width="140" style="border-radius:50%;"></div>
-</p>
-
 <h1 align="center">Hi 👋, I'm Sudhanshu Khanna</h1>
 <h3 align="center">Data Analyst • Python Developer • SQL Enthusiast</h3>
 
 <!-- Animated typing intro -->
 <p align="center">
+  <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=4CAF50&width=780&height=60&lines=Turning+Data+into+Actionable+Insights📊;Building+Scalable+Python+Automation🛠️;Learning+Full+Stack+Data+Engineering🚀" alt="typing" />
+  </div>
 </p>
 
 ---
